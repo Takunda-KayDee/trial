@@ -15,3 +15,5 @@ git merge <branch> merges branch to master
 git remove add <name> <url> adds a new repo
 git push -u <name> <branch> pushes changes to remote repo
 touch <name> adds to repository
+
+branched change
